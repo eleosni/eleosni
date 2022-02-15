@@ -3,9 +3,9 @@
 
 **Мой технологический стэк:**
 
-*HTML/CSS
-*JavaScript
-*React
+* HTML/CSS
+* JavaScript
+* React
 
 📫 Связаться со мной: [telegram]: (https://t.me/Eleosn99)
 
