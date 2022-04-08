@@ -7,7 +7,7 @@
 * SQL
 * ML
 
-📫 Связаться со мной: [telegram]: (https://t.me/Eleosn99)
+📫 Связаться со мной: [telegram]: (https://t.me/eleosn13)
 
 
 
